@@ -30,7 +30,9 @@ html{
 html::-webkit-scrollbar{
     width:1.4rem;
 }
-
+.add1{
+    font-family: 'Nunito', sans-serif;
+}
 html::-webkit-scrollbar-track{
     background:#222;
 }
